@@ -1,3 +1,4 @@
+Problem Statement: Tackling the Fake News Mess
 The Core Issue
 
 The biggest problem right now isn't just that fake news exists—it's that it spreads way faster than the truth can keep up with. Social media has made it so easy for anyone to post a "breaking" headline that looks real but is actually total nonsense. Most people don't have the time or the tools to fact-check every single thing they read, which leads to a lot of unnecessary panic and confusion.
